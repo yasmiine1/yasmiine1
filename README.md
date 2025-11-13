@@ -55,12 +55,11 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yasmine-benncib-16782228a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Yasmine%20Benncib-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Yasmine%20Benncib-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:yasminebenncib2@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-pink?style=for-the-badge&logo=gmail" />
-  </a>
+  <img src="https://img.shields.io/badge/Contact%20Me-📧%20yasminebenncib2@gmail.com-pink?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </p>
+
 
 <p align="center"> 
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="80px" /> 
