@@ -10,7 +10,7 @@
 
 
 
----
+
 
 ## 👋 About Me
 
@@ -18,7 +18,7 @@
 - 💡 I build modern web/mobile applications (Spring Boot, Angular, Flutter...)  
 
 <p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" /> </p>
----
+
 
 ## 💻 My Projects
 
@@ -30,7 +30,7 @@
 | **"YB curls shop"** | E-commerce website for selling curly hair products  (Angular/Spring boot/oracle) | [👉 View on GitHub](https://github.com/yasmiine1/Projet-vente-produits-cheveux.git) |
 
 <p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" /> </p>
----
+
 
 ## ⚙️ Technical Skills
 
@@ -43,7 +43,7 @@
 
 <p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" /> </p>
 
----
+
 
 ## 🌸 Find Me
 
@@ -57,7 +57,7 @@
 </p>
 
 <p align="center"> <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="80px" /> </p>
----
+
 
 <p align="center">
   💕 *Thank you for visiting my profile!*  
