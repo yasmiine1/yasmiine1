@@ -1,56 +1,60 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yasmiine1/yasmiine1/main/title.svg" width="80%" />
+  <img src="https://raw.githubusercontent.com/yasmine-nc/yasmine-nc/main/title.svg" width="80%" />
 </p>
 
+<!-- Badges under title -->
 <p align="center">
-Développeuse Full Stack • Étudiante passionnée • Créatrice d’expériences modernes et élégantes ✨
+  <img src="https://img.shields.io/badge/IT%20Student-DA70D6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-FF69B4?style=for-the-badge" />
 </p>
 
----
 
-### 💫 À propos de moi
-
-- 🎓 Étudiante en informatique, amoureuse du code et du design  
-- 💡 Je crée des projets web modernes (Spring Boot, Angular, Flutter...)  
-- 💕 J’aime les interfaces douces, épurées et esthétiques  
-- 🚀 Objectif : devenir développeuse Full Stack & UI Designer  
 
 ---
 
-### 🌷 Mes Projets Principaux
+##  About Me
 
-| 🧠 Projet | 🌸 Description | 🔗 Lien |
+- 🎓 Information Systems Development Student  
+- 💡 I build modern web/mobile applications (Spring Boot, Angular, Flutter...)  
+
+---
+
+## My Projects
+
+|  Project |  Description | 🔗 Link |
 |-----------|----------------|--------|
-| **CurlShop** | Site e-commerce pour cheveux bouclés (Angular + Spring Boot) | [👉 Voir sur GitHub](https://github.com/yasmine-nc/curlshop) |
-| **HotelApp** | Application complète de gestion d’hôtel | [👉 Voir sur GitHub](https://github.com/yasmine-nc/hotelapp) |
-| **EcoAction** | App Flutter pour les associations écologiques | [👉 Voir sur GitHub](https://github.com/yasmine-nc/ecoaction) |
-| **TP_SQL_PLSQL** | Exercices SQL/PLSQL avec vues, curseurs et triggers | [👉 Voir sur GitHub](https://github.com/yasmine-nc/tp_sql_plsql) |
+| **“MY parfums"** | E-commerce website for selling perfumes (Angular + JSON) | [👉 View on GitHub](https://github.com/yasmiine1/Projet-Parfums.git) |
+| **fiches Intervention App** | Application for managing/creating intervention reports (Angular/Spring Boot/Oracle) | [👉 View on GitHub](https://github.com/yasmiine1/Projet--Gestion-des-fiches-d-interventions.git) |
+| **“Marisya Hotel”** |  Web application for hotel reservation management  (Angular/Spring boot/oracle) | [👉 View on GitHub](https://github.com/yasmiine1/Projet-Marisya-Hotel.git) |
+| **"YB curls shop"** | E-commerce website for selling curly hair products  (Angular/Spring boot/oracle) | [👉 View on GitHub](https://github.com/yasmiine1/Projet-vente-produits-cheveux.git) |
 
 ---
 
-### 🛠️ Compétences Techniques
+## 🛠️ Technical Skills
 
-💻 **Back-end :** Java • Spring Boot • JPA • Oracle • MySQL  
-🎨 **Front-end :** Angular • HTML • CSS • TypeScript • Bootstrap • Flutter  
-⚙️ **Outils :** Git • GitHub • Postman • VS Code • IntelliJ  
+**Web Development:** HTML, CSS, JavaScript, Bootstrap, Angular, Spring Boot, Flutter, Node.js****
+**Programming Languages:** C, Python, Java, PHP, Kotlin
+**Databases:** Oracle, MySQL, MongoDB, PostgreSQL
+**System Analysis and Design:** System analysis, UML modeling
+**Design:** Logo creation and design (Photoshop / Canva)
+**Tools:** VS Code, Sublime, Eclipse, Git, Postman
 
 ---
 
-### 🌸 Me retrouver
+## 🌸 Find Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yasmine-necib" target="_blank">
+  <a href="www.linkedin.com/in/yasmine-benncib-16782228a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Yasmine%20Necib-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:yasmine.necib@email.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20me-pink?style=for-the-badge&logo=gmail" />
+  <a href="mailto:yasminebenncib2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-pink?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  💕 *Merci d’avoir visité mon profil !*  
+  💕 *Thank you for visiting my profile!*  
   <br/>
-  <i>Chaque projet est une nouvelle histoire à coder 💻✨</i>
 </p>
