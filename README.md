@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yasmiine1/yasmiine1/main/title.svg" width="80%" />
+  <img src="https://raw.githubusercontent.com/yasmiine1/yasmiine1/main/header.svg" width="80%" />
 </p>
 
 <!-- Badges under title -->
