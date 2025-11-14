@@ -14,7 +14,9 @@
 
 - 🎓 Information Systems Development Student  
 - 💡 I build modern web and mobile applications using Angular, Spring Boot, Flutter, and more  
-
+- 📧 **Email:** yasminebenncib2@gmail.com  
+- 📱 **Phone:** +216 50 150 242
+  
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" /> 
 </p>
@@ -29,6 +31,18 @@
 | **Fiches Intervention App** | Application for managing and creating intervention reports (Angular/Spring Boot/Oracle) | [👉 View on GitHub](https://github.com/yasmiine1/Projet--Gestion-des-fiches-d-interventions.git) |
 | **Marisya Hotel** | Web application for hotel reservation management (Angular/Spring Boot/Oracle) | [👉 View on GitHub](https://github.com/yasmiine1/Projet-Marisya-Hotel.git) |
 | **YB curls shop** | E-commerce website for selling curly hair products (Angular/Spring Boot/Oracle) | [👉 View on GitHub](https://github.com/yasmiine1/Projet-vente-produits-cheveux.git) |
+
+<p align="center"> 
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" /> 
+</p>
+
+## 🚧 Ongoing Projects
+
+| Project | Description | 🔗 Link |
+|---------|-------------|---------|
+| **GlowUp App** |  Personal Care Mobile App (Flutter/Spring boot/MySql) | [🔜 In progress]() |
+| **Pet Adopt** | A Pet Adoption Mobile App  (Flutter / Node.js / MongoDB) | [🔜 In progress]() | 
+|**EcoAction** | Environmental Event Management Mobile App  () | [🔜 In progress]() |
 
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" /> 
@@ -51,14 +65,18 @@
 
 ---
 
-## 🌸 Find Me
+## 🌸 Contact Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yasmine-benncib-16782228a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Yasmine%20Benncib-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <img src="https://img.shields.io/badge/Contact%20Me-📧%20yasminebenncib2@gmail.com-pink?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  &nbsp;&nbsp;
+  <a href="mailto:yasminebenncib2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Me-ff69b4?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
+
 
 
 <p align="center"> 
