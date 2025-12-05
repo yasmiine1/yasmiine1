@@ -42,7 +42,9 @@
 |---------|-------------|---------|
 | **GlowUp App** |  Personal Care Mobile App (Flutter/Spring boot/MySql) | [🔜 In progress]() |
 | **Pet Adopt** | A Pet Adoption Mobile App  (Flutter / Node.js / MongoDB) | [🔜 In progress]() | 
-|**EcoAction** | Environmental Event Management Mobile App  () | [🔜 In progress]() |
+|**EcoAction** | Environmental Event Management Mobile App  (Kotlin/FiraBase) | [🔜 In progress](https://github.com/yasmiine1/projetEcoActionComplet.git) |
+|**EcoAction V2** | Environmental Event Management Mobile App  (Flutter/Spring Boot) | [🔜 In progress]() |
+
 
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" /> 
