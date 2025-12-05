@@ -40,10 +40,10 @@
 
 | Project | Description | 🔗 Link |
 |---------|-------------|---------|
-| **GlowUp App** |  Personal Care Mobile App (Flutter/Spring boot/MySql) | [🔜 In progress]() |
+| **GlowUp App** |  Personal Care Mobile App (Flutter/Spring boot/MySql) | [🔜 In progress](https://github.com/yasmiine1/projet-glow-up-version-finale.git) |
 | **Pet Adopt** | A Pet Adoption Mobile App  (Flutter / Node.js / MongoDB) | [🔜 In progress]() | 
 |**EcoAction** | Environmental Event Management Mobile App  (Kotlin/FiraBase) | [🔜 In progress](https://github.com/yasmiine1/projetEcoActionComplet.git) |
-|**EcoAction V2** | Environmental Event Management Mobile App  (Flutter/Spring Boot) | [🔜 In progress]() |
+|**EcoAction V2** | Environmental Event Management Mobile App  (Flutter/Spring Boot) | [🔜 In progress](https://github.com/yasmiine1/EcoActionFront.git) |
 
 
 <p align="center"> 
